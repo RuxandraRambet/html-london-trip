@@ -1,3 +1,10 @@
 # London Trip
 
-Il mio viaggio a Londra con varie informazioni utili.
+Riproduzione esercizio London Trip. Diviso in varie <section></section>:
+
+##Sezioni del documento
+- cose da fare
+- spese
+- aerei 
+- foto 
+
